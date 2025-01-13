@@ -16,7 +16,8 @@ The lists you created in the program must display in the Shell once the program 
 a. Must use if, elif, and else statements in your program.
 b. The year must be divisible by 4.
 c. If the year is a century year (1700, 1800, etc.), the year must be evenly divisible by 400.
-    4. Write a program that takes a 10-digit phone number and adds a hyphen in the correct location. Using an input field for the user to enter the information. Also, use a string for instructions on how to enter the phone in the input field.
+
+4. Write a program that takes a 10-digit phone number and adds a hyphen in the correct location. Using an input field for the user to enter the information. Also, use a string for instructions on how to enter the phone in the input field.
 
 Ex: 
 3125551212
@@ -36,6 +37,8 @@ d. Have a print statement that calls the 2nd method that describes the car you h
 
 
 Find and Correct Errors. There are 5 errors combined in both programs (3 errors in one and 2 in the other), with 5 points for each solved correctly. Don't add or erase from the code given; only correct the errors. If you do either two, there will be a deduction in points. Identify the mistakes by using comments in your code and correct them. Failure to do so points will be deducted. Correctly fixed all the errors, so the code runs perfectly in the Shell.
+
+
 1. Once all the errors are fixed, your problem should run correctly.
 
 def celsius_to_kelvin(value_celsius):
