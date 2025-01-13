@@ -1,0 +1,1 @@
+Make a class called Element with parameters & instance attributes of name, symbol, and number. Create an object called hydrogen of this class with the values Hydrogen, H, and 1.
